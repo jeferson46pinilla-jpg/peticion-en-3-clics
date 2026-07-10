@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "plataforma comunitaria para crear causas, registrar apoyos y generar PDF colectivo",
   "main": "app.js",
-  "scripst": {
+  "scripts": {
     "start": "node app.js",
     "dev": "node app.js"
   },
-  "dependencias": {
+  "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "sqlite3": "^5.1.7"
